@@ -27,4 +27,3 @@ INSERT INTO services (title, short_desc, description, icon) VALUES
 ('Application Design', 'Mobile and desktop app design', 'Designing cross-platform applications focusing on usability and accessibility.', 'UIUX-designing-1.jpg'),
 ('Website Design', 'Responsive website design', 'Landing pages, content sites and e-commerce with performance focus.', 'UIUX-designing-1.jpg');
 
-DELETE FROM services;
