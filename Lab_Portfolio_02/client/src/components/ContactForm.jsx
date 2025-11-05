@@ -85,8 +85,8 @@ export default function ContactForm() {
             <div className="space-y-5">
               {[
                 { icon: <FaPhoneAlt />, text: "01720390754" },
-                { icon: <MdEmail />, text: "minhazreza3243@gmail.com" },
-                { icon: <IoShareSocialSharp />, text: "Minhaz Reza" },
+                { icon: <MdEmail />, text: "ArnabPortfolioreza3243@gmail.com" },
+                { icon: <IoShareSocialSharp />, text: "ArnabPortfolio Reza" },
                 {
                   icon: <FaLocationArrow />,
                   text: "381/A-4 South Goran , Dhaka-1205, Bangladesh",

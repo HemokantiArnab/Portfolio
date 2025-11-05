@@ -1,4 +1,4 @@
-import Minhaz from "../assets/Minhaz.png";
+import ArnabPortfolio from "../assets/ArnabPortfolio.png";
 
 export default function Hero() {
   return (
@@ -6,7 +6,7 @@ export default function Hero() {
       <div>
         <div className="mb-4 text-sm text-gray-600">Hello There!</div>
         <h1 className="text-5xl font-bold leading-tight">
-          I'm <span className="text-accent italic underline">Minhaz Reza,</span>
+          I'm <span className="text-accent italic underline">ArnabPortfolio Reza,</span>
           <br />
           Product Designer <br />
           Based in Bangladesh.
@@ -30,7 +30,7 @@ export default function Hero() {
       <div className="flex justify-center md:justify-end">
         <div className="relative">
           <img
-            src={Minhaz}
+            src={ArnabPortfolio}
             alt="Portrait"
             className="rounded-full w-full object-cover"
           />

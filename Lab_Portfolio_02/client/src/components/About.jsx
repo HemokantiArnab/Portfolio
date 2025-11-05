@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import React from "react";
-import Minhaz from "../assets/Minhaz.png";
+import ArnabPortfolio from "../assets/ArnabPortfolio.png";
 
 export default function About() {
   return (
@@ -18,8 +18,8 @@ export default function About() {
               className="w-80 h-80 rounded-full overflow-hidden ring-8 ring-[#F9B84E]/30 shadow-2xl"
             >
               <img
-                src={Minhaz}
-                alt="Minhaz"
+                src={ArnabPortfolio}
+                alt="ArnabPortfolio"
                 className="w-full h-full object-cover"
               />
             </motion.div>
@@ -72,7 +72,7 @@ export default function About() {
                 — About Me
               </p>
               <h2 className="text-5xl md:text-6xl font-black mt-2 leading-tight">
-                Who is <span className="text-[#F9B84E]">Minhaz</span>?
+                Who is <span className="text-[#F9B84E]">ArnabPortfolio</span>?
               </h2>
             </motion.div>
 
@@ -138,7 +138,7 @@ export default function About() {
                 className="text-4xl font-cursive text-[#F9B84E] italic"
                 style={{ fontFamily: "'Dancing Script', cursive" }}
               >
-                Minhaz
+                ArnabPortfolio
               </motion.p>
             </motion.div>
           </div>

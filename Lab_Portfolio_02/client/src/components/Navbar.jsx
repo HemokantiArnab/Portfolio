@@ -6,7 +6,7 @@ export default function Navbar() {
           <div className="w-10 h-10 rounded-full bg-accent flex items-center justify-center text-white font-bold">
             M
           </div>
-          <span className="text-lg font-semibold">Minhaz.</span>
+          <span className="text-lg font-semibold">ArnabPortfolio.</span>
         </div>
 
         <ul className="hidden md:flex items-center gap-8 text-gray-700">

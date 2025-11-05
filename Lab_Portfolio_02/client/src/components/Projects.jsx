@@ -9,14 +9,14 @@ const projects = [
     id: 1,
     title: "TU HI MERI SHAB HAI",
     subtitle: "Keyboard Cover",
-    artist: "By Minhaz Reza",
+    artist: "By ArnabPortfolio Reza",
     videoId: "jbcARIalnKk", // YouTube ID
     cover: Cover1,
   },
   {
     id: 2,
     title: "INSTRUMENTAL COVER",
-    subtitle: "MINHAZ",
+    subtitle: "ArnabPortfolio",
     artist: "Original Piano & Synth",
     videoId: "DDHMZoXF3kU",
     cover: Cover2,
