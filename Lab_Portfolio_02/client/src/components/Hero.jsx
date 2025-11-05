@@ -1,4 +1,4 @@
-import ArnabPortfolio from "../assets/ArnabPortfolio.png";
+import ArnabPortfolio from "../assets/ArnabPortfolio.jpg";
 
 export default function Hero() {
   return (
@@ -6,7 +6,7 @@ export default function Hero() {
       <div>
         <div className="mb-4 text-sm text-gray-600">Hello There!</div>
         <h1 className="text-5xl font-bold leading-tight">
-          I'm <span className="text-accent italic underline">ArnabPortfolio Reza,</span>
+          I'm <span className="text-accent italic underline">Arnab Chakraborty ,</span>
           <br />
           Product Designer <br />
           Based in Bangladesh.

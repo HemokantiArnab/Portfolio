@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import React from "react";
-import ArnabPortfolio from "../assets/ArnabPortfolio.png";
+import ArnabPortfolio from "../assets/ArnabPortfolio.jpg";
 
 export default function About() {
   return (

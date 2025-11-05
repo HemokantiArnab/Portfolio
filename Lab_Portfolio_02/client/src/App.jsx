@@ -15,7 +15,7 @@ export default function App() {
         <Services />
         <About />
         <Tools />
-        <Projects />
+        {/* <Projects /> */}
         <ContactForm />
       </main>
     </div>
